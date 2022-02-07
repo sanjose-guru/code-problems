@@ -1,4 +1,4 @@
-import sol
+import nth_fibonacci.sol as sol
 
 nf = sol.NthFibonacci()
 
