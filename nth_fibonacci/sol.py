@@ -9,7 +9,3 @@ class NthFibonacci:
                 nthFib[i+2] += nthFib[i]
 
         return nthFib[n]
-
-
-nf = NthFibonacci()
-print(f"{nf.fib(6)}")
